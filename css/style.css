@@ -1,4 +1,30 @@
 body{
+    font-family: shadows into light;
     background-color: #18F0EC;
-    
+    color: #A82B22
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Architects Daughter"; 
+    font-size:3rem;
+}
+
+header{
+    text-align: center;
+}
+
+#hero, footer{
+    color: #175699;
+    border:2px solid #F09700;
+    background-color:#0CF06B;
+    text-align: center;
+    padding: 2rem;
+}
+
+#hero img{
+    width:10rem;
+}
+
+#bio{ 
+    text-align: center;
 }
