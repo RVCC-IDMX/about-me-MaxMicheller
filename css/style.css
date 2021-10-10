@@ -7,11 +7,14 @@ body{
 h1, h2, h3, h4, h5, h6 {
     font-family: "Architects Daughter"; 
     font-size:2rem;
+    text-align: center;
 }
 
 header{
     text-align: center;
 }
+
+/*Hero Section */
 
 #hero, footer{
     color: #175699;
@@ -25,10 +28,38 @@ header{
     width:10rem;
 }
 
+/*bio Section */
+
 #bio{ 
     text-align: center;
 }
 
+/*Hobbies Section*/
+
 #hobbies ul li:nth-child(odd){
     color: #F09700;
+}
+
+
+
+/* Gallery section*/
+
+#gallery{
+
+    border: 1rem solid #175699;
+    margin: 1rem;
+
+}
+
+#gallery img {
+
+    max-width: 100%;
+    border: 1rem dotted #F09700;
+    
+}
+
+#gallery figure{
+
+    text-align: center;
+    
 }
