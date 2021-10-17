@@ -14,6 +14,9 @@ header{
     text-align: center;
 }
 
+h2{
+    margin: 0.1em;
+}
 /*Hero Section */
 
 #hero, footer{
@@ -35,6 +38,12 @@ header{
 }
 
 /*Hobbies Section*/
+
+#hobbies {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
 
 #hobbies ul li:nth-child(odd){
     color: #F09700;
@@ -98,8 +107,25 @@ header{
     line-height: 0.65;
     border:0.2rem solid #F09700;
     margin-right: 0.25em;
-    margin-bottom: 0.01em;W
+    margin-bottom: 0.01em;
     float: left;
     
+}
+
+
+@media screen and (min-width: 60em){
+
+    figure {
+        display: grid;
+        grid-template-columns: 2fr 1fr;
+    }
+
+    figcaption{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 2rem;
+        margin-left: 2rem;
+    }
 
 }
