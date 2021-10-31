@@ -159,4 +159,18 @@ h2{
             display:block;
         }
     }
+
+
+}
+
+#video{
+
+/* https://stackoverflow.com/questions/8366957/how-to-center-an-iframe-horizontally */
+
+    border: 1rem solid #175699;
+    margin: auto;
+    width: 560px;
+    height: 375px;
+    margin: 1rem auto;
+
 }
