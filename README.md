@@ -7,7 +7,8 @@ The following repository is an accumulation of work in which was learned from ta
 
 Lets get down to the Color Scheme. I dont think im very good with choosing colors in general, but i went with a swatch of 5 colors. 
 
-[![Color Swatch](https://github.com/RVCC-IDMX/about-me-MaxMicheller/blob/final-draft/img/Screenshot%202021-09-29%20145729.png)]
+![Color Swatch](https://github.com/RVCC-IDMX/about-me-MaxMicheller/blob/final-draft/img/Screenshot%202021-09-29%20145729.png)
 
 
 
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
