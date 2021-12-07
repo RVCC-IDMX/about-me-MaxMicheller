@@ -12,6 +12,11 @@ Lets get down to the Color Scheme. I dont think im very good with choosing color
 Citations:
 https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Shadows+Into+Light&display=swap
 https://stackoverflow.com/questions/8366957/how-to-center-an-iframe-horizontally
+https://www.1001fonts.com/fat+google-web-fonts.html?page=1&items=50
+https://www.figma.com/file/aNb0hOFpDjghucd1KYdyM7/Untitled?node-id=0%3A1
+https://www.favicon-generator.org/
+https://github.com/RVCC-IDMX/about-me-MaxMicheller
+
 
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.  
