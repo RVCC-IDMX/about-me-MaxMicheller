@@ -79,6 +79,13 @@ main{
     outline: none; 
 }
 
+.navbar a.icon {
+    overflow: hidden;
+    position: relative;
+    display: none;
+
+}
+
 
 /* 
 media query for non-mobile nav bar
@@ -97,5 +104,36 @@ such that no text wraps
     .navbar ul{
         display: flex;
         justify-content: space-between;
+    }        
+    
+}
+
+
+
+@media screen and (max-width: 60em){
+
+        /* Style the navigation menu */
+    .navbar-links {
+    overflow: hidden;
+    position: relative;
+    display: none;
+    } 
+    .navbar a.icon {
+    color: #F09700;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    display: block;
     }
+
+    .navbar a:hover {
+    background-color: #18F0EC;
+    color: black;
+    }
+
+    .active {
+    background-color: #04AA6D;
+    color: white;
+    }
+
 }
