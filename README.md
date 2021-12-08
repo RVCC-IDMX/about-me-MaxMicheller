@@ -16,6 +16,9 @@ https://www.1001fonts.com/fat+google-web-fonts.html?page=1&items=50
 https://www.figma.com/file/aNb0hOFpDjghucd1KYdyM7/Untitled?node-id=0%3A1
 https://www.favicon-generator.org/
 https://github.com/RVCC-IDMX/about-me-MaxMicheller
+https://www.google.com/maps/place/Raritan+Valley+Community+College/@40.611847,-74.6907702,17z/data=!3m1!4b1!4m5!3m4!1s0x89c3937dc5acab1f:0x15e7f0de30681faa!8m2!3d40.611847!4d-74.6885815
+https://kiwisprout.nz/post/google-maps--embedded-static-or-js--whats-better
+https://developers.google.com/maps/documentation/embed/map-generator#api-key
 
 
 
